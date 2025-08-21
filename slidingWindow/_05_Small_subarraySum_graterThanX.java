@@ -55,8 +55,6 @@ public class _05_Small_subarraySum_graterThanX{
             }
             right++;
         }
-        
-        
          return (min==Integer.MAX_VALUE ? 0 : min);
     }
 }
